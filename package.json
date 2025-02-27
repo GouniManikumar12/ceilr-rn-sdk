@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ceilr-rn-sdk.git"
+    "url": "git+https://github.com/GouniManikumar12/ceilr-rn-sdk/"
   },
   "keywords": [
     "ceilr",
