@@ -1,6 +1,6 @@
 {
   "name": "ceilr-rn-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CeilR React Native SDK for feature access and usage tracking",
   "main": "index.js",
   "repository": {
