@@ -5,9 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ceilr-rn-sdk.git"
+    "url": "git+https://github.com/yourusername/ceilr-rn-sdk.git"
   },
-  "keywords": ["ceilr", "react-native", "feature-flags", "usage-tracking"],
+  "keywords": [
+    "ceilr",
+    "react-native",
+    "feature-flags",
+    "usage-tracking"
+  ],
   "author": "Mani Kumar Gouni",
   "license": "MIT",
   "dependencies": {
